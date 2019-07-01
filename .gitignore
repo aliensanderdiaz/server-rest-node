@@ -1,0 +1,6 @@
+node_modules/
+*.png
+*.jpg
+!no-image.jpg
+*.gif
+*.jpeg
